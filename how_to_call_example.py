@@ -1,7 +1,7 @@
 import sys
 import time
 
-from licensifylib import verify_and_activate_license, 
+from licensifylib import verify_and_activate_license
 from licensifylib import create_license_file 
 
 print(f"PROGRAM STARTS")
